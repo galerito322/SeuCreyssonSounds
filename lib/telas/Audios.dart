@@ -79,6 +79,7 @@ class _AudiosState extends State<Audios> {
     "num va acertar um hook",
     "ultaocara",
     "dont go",
+    "eita man",
   ];
 
   @override
@@ -199,6 +200,7 @@ class _AudiosState extends State<Audios> {
                         icon: Icon(Icons.play_arrow_sharp),
                         onPressed: () {
                           _resume();
+                          print(atual);
                         },
                       ),
                     ),
@@ -239,9 +241,10 @@ class _AudiosState extends State<Audios> {
                         ),
                         onPressed: () {
                           _play(_listaTarefas[index]);
-                          //print(_listaTarefas[rand.nextInt(5)]);
+
                           setState(() {
                             atual = _listaTarefas[index];
+                            print(atual);
                           });
                         },
                       ),
