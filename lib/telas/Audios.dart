@@ -80,6 +80,7 @@ class _AudiosState extends State<Audios> {
     "ultaocara",
     "dont go",
     "eita man",
+    "einstein",
   ];
 
   @override
