@@ -37,7 +37,7 @@ dev_dependencies:
 flutter_icons:
   android: true
   ios: true
-  image_path: "assets/imagens/crey.png"
+  image_path: "assets/imagens/creyretro.png"
 
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec
@@ -74,9 +74,6 @@ flutter:
     - assets/audios/silencer.mp3
     - assets/audios/macarrao.mp3
     - assets/audios/ranqueada.mp3
-    - assets/audios/cavalo.mp3
-    - assets/audios/choque.mp3
-
     - assets/audios/fumou.mp3
     - assets/audios/boua.mp3
     - assets/audios/carregar.mp3
@@ -87,10 +84,41 @@ flutter:
     - assets/audios/vamos capinar o lote.mp3
     - assets/audios/num va acertar um hook.mp3
     - assets/audios/ultaocara.mp3
-    
     - assets/audios/dont go.mp3
     - assets/audios/eita man.mp3
     - assets/audios/einstein.mp3
+    - assets/audios/vc é legenda.mp3
+    - assets/audios/para de falar irmio.mp3  
+
+    - assets/audios/120.mp3  
+    - assets/audios/adianta telar.mp3  
+    - assets/audios/ai é um jogador.mp3  
+    - assets/audios/canto da sereia.mp3 
+    - assets/audios/comunicando com boludo.mp3   
+    - assets/audios/cuato cara no mid.mp3   
+    - assets/audios/intimando o falen.mp3 
+    
+    - assets/audios/jimbreal sinonimos.mp3   
+    - assets/audios/kd os donate.mp3   
+    - assets/audios/lancha lancha remix.mp3
+    - assets/audios/lanchados.mp3
+    - assets/audios/liga e fala alguma coisa.mp3
+    - assets/audios/ligando na gvt.mp3
+
+
+    - assets/audios/omni cara.mp3
+    - assets/audios/para de falar irmio.mp3
+    - assets/audios/q q isso valve.mp3
+    - assets/audios/quem disse que eu vo jogar com vcs.mp3
+    - assets/audios/sou tri campeao goiano.mp3
+    - assets/audios/usa malevolence.mp3
+    - assets/audios/varios tp no mid.mp3
+    - assets/audios/vc é legenda.mp3
+    - assets/audios/vc n sabe da uma rolada.mp3
+    - assets/audios/vem roshan.mp3
+  
+   
+   
     
 
 

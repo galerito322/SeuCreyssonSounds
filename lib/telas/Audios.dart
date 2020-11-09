@@ -12,7 +12,7 @@ class Audios extends StatefulWidget {
 class _AudiosState extends State<Audios> {
   AudioPlayer audioPlayer = AudioPlayer();
   AudioCache audioCache = AudioCache(prefix: "audios/");
-
+  var i = 1;
   String temp = "silencer";
   String atual = "";
   String random = "";
@@ -66,8 +66,6 @@ class _AudiosState extends State<Audios> {
     "silencer",
     "macarrao",
     "ranqueada",
-    "cavalo",
-    "choque",
     "boua",
     "carregar",
     "drogon",
@@ -81,6 +79,31 @@ class _AudiosState extends State<Audios> {
     "dont go",
     "eita man",
     "einstein",
+    "vc é legenda",
+    "para de falar irmio",
+    "120",
+    "adianta telar",
+    "ai é um jogador",
+    "canto da sereia",
+    "comunicando com boludo",
+    "cuato cara no mid",
+    "intimando o falen",
+    "jimbreal sinonimos",
+    "kd os donate",
+    "lancha lancha remix",
+    "lanchados",
+    "liga e fala alguma coisa",
+    "ligando na gvt",
+    "omni cara",
+    "para de falar irmio",
+    "q q isso valve",
+    "quem disse que eu vo jogar com vcs",
+    "sou tri campeao goiano",
+    "usa malevolence",
+    "varios tp no mid",
+    "vc é legenda",
+    "vc n sabe da uma rolada",
+    "vem roshan",
   ];
 
   @override
@@ -236,9 +259,8 @@ class _AudiosState extends State<Audios> {
                       ),
                       child: FlatButton(
                         child: ListTile(
-                          title: Text(
-                            _listaTarefas[index],
-                          ),
+                          title: Text(_listaTarefas[index]),
+                          subtitle: Text("#$index"),
                         ),
                         onPressed: () {
                           _play(_listaTarefas[index]);
@@ -273,7 +295,8 @@ class SnackDetector extends StatelessWidget {
           onPressed: () {
             Scaffold.of(context).showSnackBar(
               SnackBar(
-                content: Text("v 0.1 Created by Galerito"),
+                content: Text(
+                    "Aperta no Crey que da randon.\n(v 0.1) Created by Galerito"),
               ),
             );
           }),
