@@ -1,4 +1,4 @@
-package com.example.SeuCreyssonSounds
+package com.SeuCreyssonSounds.reborn
 
 import io.flutter.embedding.android.FlutterActivity
 

@@ -88,13 +88,13 @@ flutter:
     - assets/audios/eita man.mp3
     - assets/audios/einstein.mp3
     - assets/audios/vc é legenda.mp3
-    - assets/audios/para de falar irmio.mp3  
+    # - assets/audios/para de falar irmio.mp3  
 
-    - assets/audios/120.mp3  
+    - assets/audios/conhece o 120.mp3  
     - assets/audios/adianta telar.mp3  
     - assets/audios/ai é um jogador.mp3  
     - assets/audios/canto da sereia.mp3 
-    - assets/audios/comunicando com boludo.mp3   
+  
     - assets/audios/cuato cara no mid.mp3   
     - assets/audios/intimando o falen.mp3 
     
@@ -107,7 +107,7 @@ flutter:
 
 
     - assets/audios/omni cara.mp3
-    - assets/audios/para de falar irmio.mp3
+  
     - assets/audios/q q isso valve.mp3
     - assets/audios/quem disse que eu vo jogar com vcs.mp3
     - assets/audios/sou tri campeao goiano.mp3
@@ -116,6 +116,48 @@ flutter:
     - assets/audios/vc é legenda.mp3
     - assets/audios/vc n sabe da uma rolada.mp3
     - assets/audios/vem roshan.mp3
+
+    - assets/audios/bate papo uol.mp3
+    - assets/audios/callate hijo de mil pultas.mp3
+    - assets/audios/cheiro da bosta.mp3
+    - assets/audios/como q esse cara ta correndo tanto.mp3
+    - assets/audios/depressão da onde.mp3
+    - assets/audios/eu que to zuando o jogo.mp3
+    - assets/audios/eu sou o sniper.mp3
+    - assets/audios/hr de vc dormir.mp3
+    - assets/audios/lancha lancha gretchen.mp3
+    - assets/audios/macarrao q poha de ban rapaz.mp3
+    - assets/audios/maior controlador de unidades.mp3
+    - assets/audios/me responde na pagina.mp3
+    - assets/audios/nun da empale ai n.mp3
+    - assets/audios/o mais lixo que eu ja vi.mp3
+    - assets/audios/pqr q q se tirou o galo.mp3
+    - assets/audios/pudg suporte.mp3
+    - assets/audios/quem tem dó do mendigo.mp3
+    - assets/audios/resumo do patch.mp3
+    - assets/audios/desgraçado saiu do jogo.mp3
+    - assets/audios/se tem q melhorar mt.mp3
+    - assets/audios/seis n vao jogar mais cmg.mp3
+    - assets/audios/soy lucas codorna.mp3
+    - assets/audios/tu é horrivel de mais cara.mp3
+    - assets/audios/ai é intelegente.mp3
+    - assets/audios/depoimento aluno loucademia.mp3
+    - assets/audios/e para de me ligar zbc.mp3
+    - assets/audios/o jogo ja acabou seus inbecil.mp3
+    - assets/audios/q troxa oq rapaz.mp3
+    - assets/audios/vc é um sup 5 animal.mp3
+    - assets/audios/direitos da loucademia.mp3 
+    - assets/audios/seis demoraram pra achar game.mp3
+    
+    
+    
+   
+
+    
+    
+   
+    
+
   
    
    
