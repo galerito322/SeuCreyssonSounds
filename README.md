@@ -1,7 +1,7 @@
 # SeuCreyssonSounds
 (Primeiro App feito em flutter/dart);
 
-Reprodutor de Audios 
+Reprodutor de áudios 
 
 Reproduz frases do streamer seucreyssonreborn
 
